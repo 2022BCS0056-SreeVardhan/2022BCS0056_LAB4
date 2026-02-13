@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     DOCKERHUB_CREDS = 'dockerhub-creds'
-    IMAGE_NAME = '2022bcs0056-jenkins'   // change this
+    IMAGE_NAME = 'sreevardhan2022bcs0056/ml-model'
   }
 
   stages {
