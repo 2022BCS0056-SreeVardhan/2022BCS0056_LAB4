@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "sreevardhan2022bcs0056/wine_predict_2022bcs0025"
+        IMAGE_NAME = "sreevardhan2022bcs0056/wine_predict_2022bcs0056"
         CONTAINER_NAME = "wine_test_container"
     }
 
